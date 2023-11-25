@@ -1,0 +1,174 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background: #37517e;
+}
+#menu li a{
+    color: white;
+   margin-right: 30px;
+}
+
+#menu li a:hover{
+    color: blueviolet;
+}
+header h1{
+    font-size: 50px;
+    padding-top: 100px;
+}
+.banner-img img{
+    padding-top: 50px;
+}
+.about-section h2{
+    font-weight: bolder;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+.about-section p{
+    font-size: 15px;
+    padding: 30px 0px;
+    line-height: 30px;
+}
+
+.about-section ul li{
+    list-style-type: none;
+    padding: 7px 0px;
+}
+
+.our-servies{
+    background: #f3f5fa;
+    padding: 50px 0px;
+}
+.our-servies h2{
+    font-weight: bolder;
+    padding-bottom: 50px;
+}
+.card-icon img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-top: 10px; 
+}
+.card p{
+    text-align: justify;
+    
+}
+.card{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.call-to{
+    background: #37517e;
+    padding: 120px 0px;
+}
+.call-to h2{
+    color: white;
+}
+.call-to p{
+    color: white;
+}
+.call-to button{
+    color: white;
+    margin-top: 50px;
+    border-color: white;
+    padding: 10px 40px;
+}
+.team-part img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 30px;
+}
+
+.team-part h4{
+    margin-top: 30px;
+}
+.team-part p{
+  margin-right: 40px;
+}
+.border-in{
+    width: 95px;
+    border-top: 2px solid gray;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.team-part{
+    box-shadow: 0px 0px 10px 2px lightgray;
+    transition: 1s;
+}
+.team-part:hover{
+    transform: translateY(-5px);
+}
+.s-links{
+    margin-top: 30px;
+
+}
+.s-links i{
+    width: 30px;
+    height: 30px;
+    background: gray;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+.contact-info{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px 2px lightgray;
+    padding: 40px 80px 40px 80px; 
+}
+.contact-info1{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    margin-bottom: 50px;
+    box-shadow: 0px 0px 10px 2px lightgray;
+    padding: 40px 80px 40px 40px; 
+}
+.contact-info-in{
+    margin-top: 40px;
+}
+.footer {
+    background: #f3f5fa;
+    padding: 50px 0px;
+}
+.footer  .footer-left{
+    margin-bottom: 0px;
+
+}
+.footer-left-2 ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+.footer-left-2 ul li{
+    display: block;
+}
+.footer-left-2 ul li a{
+    color: grey;
+    display: block;
+    margin-bottom: 10px;
+}
+.footer-left-2{
+    padding-left: 10px;
+}
+.footer-left-3 p{
+    margin-top: 50px;
+    
+}
+.s-links-footer i{
+    margin-right: 10px;
+    font-size: 20px;
+    background: blue;
+    padding: 15px;
+    color: white;
+    border-radius: 50%;
+}
+footer{
+    padding: 40px 0px;
+    background: #37517e;
+    color: white;
+}
